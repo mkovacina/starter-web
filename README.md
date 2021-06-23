@@ -10,3 +10,7 @@ Sample website with plenty of files for demos
 
 aalskdjf
 asdlkfja;ldfkj
+
+# Copyright
+
+you have been noticed
